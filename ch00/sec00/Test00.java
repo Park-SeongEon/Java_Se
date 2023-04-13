@@ -1,4 +1,4 @@
-package sh00.sec00;
+package ch00.sec00;
 
 public class Test00 {
 
